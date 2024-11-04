@@ -1,0 +1,9 @@
+std_msgs/Header header
+
+float64 delta_psi
+float64 delta_u
+float64 pwm_standard
+float64 thruster_pwm_port
+float64 thruster_pwm_stbd
+float64 azimuth_angle_port
+float64 azimuth_angle_stbd
