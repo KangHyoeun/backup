@@ -1,0 +1,13 @@
+engine:
+  - prefix: "Fleft"
+    position: "1.373776 1.027135 0.318237"
+    orientation: "0.0 0.0 0.0"
+  - prefix: "Fright"
+    position: "1.373776 -1.027135 0.318237"
+    orientation: "0.0 0.0 0.0"
+  - prefix: "Aleft"
+    position: "-2.373776 1.027135 0.318237"
+    orientation: "0.0 0.0 0.0"
+  - prefix: "Aright"
+    position: "-2.373776 -1.027135 0.318237"
+    orientation: "0.0 0.0 0.0"
